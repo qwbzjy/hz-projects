@@ -1,0 +1,38 @@
+<!DOCTYPE web-app PUBLIC
+ "-//Sun Microsystems, Inc.//DTD Web Application 2.3//EN"
+ "http://java.sun.com/dtd/web-app_2_3.dtd" >
+
+<web-app>
+  <!--<servlet>-->
+    <!--<servlet-name>LoginServlet</servlet-name>-->
+    <!--<servlet-class>com.qwb.servlet.LoginServlet</servlet-class>-->
+  <!--</servlet>-->
+  <!--<servlet-mapping>-->
+    <!--<servlet-name>LoginServlet</servlet-name>-->
+    <!--<url-pattern>/loginServlet</url-pattern>-->
+  <!--</servlet-mapping>-->
+
+  <!--<servlet>-->
+    <!--&lt;!&ndash; 类名 &ndash;&gt;-->
+    <!--<servlet-name>HelloForm</servlet-name>-->
+    <!--&lt;!&ndash; 所在的包 &ndash;&gt;-->
+    <!--<servlet-class>com.qwb.servlet.HelloForm</servlet-class>-->
+  <!--</servlet>-->
+  <!--<servlet-mapping>-->
+    <!--<servlet-name>HelloForm</servlet-name>-->
+    <!--&lt;!&ndash; 访问的网址 &ndash;&gt;-->
+    <!--<url-pattern>/HelloForm</url-pattern>-->
+  <!--</servlet-mapping>-->
+
+  <servlet>
+    <!-- 类名 -->
+    <servlet-name>ReadCookies</servlet-name>
+    <!-- 所在的包 -->
+    <servlet-class>com.qwb.servlet.ReadCookies</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>ReadCookies</servlet-name>
+    <!-- 访问的网址 -->
+    <url-pattern>/ReadCookies</url-pattern>
+  </servlet-mapping>
+</web-app>

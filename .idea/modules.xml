@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/hz-jdbc/hz-jdbc.iml" filepath="$PROJECT_DIR$/hz-jdbc/hz-jdbc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hz-jdbc-Servlet/hz-jdbc-Servlet.iml" filepath="$PROJECT_DIR$/hz-jdbc-Servlet/hz-jdbc-Servlet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hz-mybatis-01/hz-mybatis-01.iml" filepath="$PROJECT_DIR$/hz-mybatis-01/hz-mybatis-01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hz-projects.iml" filepath="$PROJECT_DIR$/hz-projects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hz-ssm/hz-ssm.iml" filepath="$PROJECT_DIR$/hz-ssm/hz-ssm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-web/java-web.iml" filepath="$PROJECT_DIR$/java-web/java-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-springmvc-mybatis/spring-springmvc-mybatis.iml" filepath="$PROJECT_DIR$/spring-springmvc-mybatis/spring-springmvc-mybatis.iml" />
+    </modules>
+  </component>
+</project>

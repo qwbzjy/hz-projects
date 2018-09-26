@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="hz-jdbc-Servlet:war">
+    <output-path>$PROJECT_DIR$/hz-jdbc-Servlet/target</output-path>
+    <root id="archive" name="hz.jdbcServlet.war">
+      <element id="artifact" artifact-name="hz-jdbc-Servlet:war exploded" />
+    </root>
+  </artifact>
+</component>

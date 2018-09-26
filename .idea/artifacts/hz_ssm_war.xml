@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="hz-ssm:war">
+    <output-path>$PROJECT_DIR$/hz-ssm/target</output-path>
+    <root id="archive" name="hz.ssm.war">
+      <element id="artifact" artifact-name="hz-ssm:war exploded" />
+    </root>
+  </artifact>
+</component>
